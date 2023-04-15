@@ -1,0 +1,185 @@
+/*Стили для демонстрации*/
+html, body { 
+	height: 100%;
+	font-size: 16px;
+	color: #333333;
+}
+
+.wrapper {
+	min-height: 100%;
+}
+
+.content {
+	padding: 0px 0;
+}
+
+.content__container {
+	max-width: 65.625rem;
+	position: relative;
+	padding: 0px 15px;
+	margin: 0px auto
+}
+
+.header {}
+
+.row {
+}
+
+.row__options {
+	width: 100vw;
+	background: #E5E5E5;
+	display: flex;
+	justify-content: space-evenly;
+	padding: 17px;
+	margin-top: -10px;
+	margin-left: -300px;
+}
+
+.row__option {
+
+}
+
+.info {
+	margin-top: 20px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.info__logo {
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	width: 300px;
+}
+
+.logo {}
+
+.logo__text {
+	
+}
+
+.info__contacts {
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	width: 500px;
+}
+
+.info__phone{
+	margin-top: 50px;
+}
+
+.info__button-call {
+	margin-top: 40px;
+}
+
+.callback {}
+
+.line{
+	margin: 20px 0px 30px -300px;
+}
+
+.services {}
+
+.services__row {}
+
+.service {}
+
+.main {
+	color: white;
+}
+
+.main__image {
+	margin: 0 -21% 0 -28.4%;
+}
+
+.first-screen {}
+
+.main__title {
+	margin: -55vh 25rem 0;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 48px;
+	line-height: 56px;
+}
+
+.main__text {
+	margin: 50px 25rem 0;
+}
+
+.main__button {
+	background-color: transparent;
+	margin: 50px 25rem 0;
+	border: 1px white ;
+}
+
+.button__text {
+	color: white;
+}
+
+.section-products {
+	background-color: #EFEFEF;
+	margin: 56vh 1.05rem;
+}
+
+.title {}
+
+.track {}
+
+.section-products__product {}
+
+.product {}
+
+.product__description {}
+
+.product__price {}
+
+.product__button {}
+
+.gifts {}
+
+.gifts__title {}
+
+.gifts__text {}
+
+.gifts__email {}
+
+.gifts__img {}
+
+.convert {}
+
+.shops {}
+
+.shops__text {}
+
+.shops-map__button {}
+
+.contacts {}
+
+.contacts__social-pages {}
+
+.youtube {}
+
+.vk {}
+
+.facebook {}
+
+.instagram {}
+
+.contacts__address {}
+
+.contacts__phone-number {}
+
+.contacts__button-call {}
+
+.footer {
+	background-color: #EFEFEF;
+}
+
+.footer__confidenciality {}
+
+.footer__rights {}
+
+.footer__policy {}
